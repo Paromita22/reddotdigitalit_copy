@@ -49,7 +49,7 @@ export default function AreaOfOperations({ sections }: AreaOfOperationsProps) {
 
   return (
     <section className="bg-gradient-to-r from-pink-50 via-white to-orange-50 py-16">
-      <div className="mx-auto max-w-6xl px-4">
+      <div className="mx-auto max-w-6xl px-6 lg:px-4">
         <div className="mb-12 text-center">
           <h2 className="text-poppins mb-2 text-3xl font-bold">
             Area of Operations
