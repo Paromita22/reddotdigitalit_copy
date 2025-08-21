@@ -104,7 +104,7 @@ export default function HeroSection() {
             <CarouselContent className="ml-0">
               {slides.map((slide) => (
                 <CarouselItem key={slide.id}>
-                  <div className="bg-white rounded-lg w-full shadow-[0_12px_48px_0px_rgba(49,1,139,0.07)] mb-8">
+                  <div className="bg-white rounded-lg w-full md:w-[85%] shadow-[0_12px_48px_0px_rgba(49,1,139,0.07)] mb-8">
                     <div className="rounded-lg h-[250px] flex items-center justify-center relative overflow-hidden px-2 pt-2">
                       <img
                         src={slide.imageUrl}
