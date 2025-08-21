@@ -42,7 +42,7 @@ export default function HeroSection() {
 
   return (
     <section
-      className="relative flex flex-col md:flex-row items-center justify-start w-full px-6 md:px-14 py-12 md:py-16 gap-12 md:gap-10 overflow-hidden"
+      className="relative flex flex-col md:flex-row items-center justify-start w-full px-6 md:px-14 py-12 md:py-16 gap-8 md:gap-10 overflow-hidden"
       style={{
         background: `
     radial-gradient(circle at 85% 15%, #F0E8FF 0%, #FFFFFF 20%),
