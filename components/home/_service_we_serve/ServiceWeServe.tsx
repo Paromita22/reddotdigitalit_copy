@@ -23,7 +23,7 @@ export function ServiceWeServeTabs() {
       }}
     >
       {/* Title */}
-      <h2 className="mt-12 text-xl sm:text-2xl font-normal max-w-xs sm:max-w-md leading-snug font-poppins text-center text-[#060414]">
+      <h2 className="mt-12 text-xl font-semibold sm:text-2xl font-normal max-w-xs sm:max-w-md leading-snug font-poppins text-center text-[#060414]">
         Service We Serve
       </h2>
 
